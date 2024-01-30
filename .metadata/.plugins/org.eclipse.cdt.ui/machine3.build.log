@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project machine3 ****
+
+"D:\\Texas Instruments\\ccs\\utils\\bin\\gmake" -k -j 12 all -O 
+ 
+gmake[1]: 'machine3.out' is up to date.
+
+**** Build Finished ****
